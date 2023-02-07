@@ -1,4 +1,10 @@
-### Hi there 👋
+# 👨🏻‍💻 [Nathan Anderson](https://nathanganderson.com) [@PhantomQuad](https://nathanganderson.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nathan%20Anderson-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nathanganderson/)](https://www.linkedin.com/in/nathanganderson/) [![GitHub followers](https://img.shields.io/github/followers/PhantomQuad?label=Follow&style=social)](https://github.com/PhantomQuad/?tab=follow) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PhantomQuad&theme=vue-dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhantomQuad&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PhantomQuad/PhantomQuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
